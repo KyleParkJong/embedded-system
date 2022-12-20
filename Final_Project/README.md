@@ -3,4 +3,8 @@
 
 ## 조원 명단
 - 고려욱 wooki0110
-- 정건희  
+- 정건희 kilhwan6 
+- 박종혁 KyleParkJong
+
+## 개요
+
